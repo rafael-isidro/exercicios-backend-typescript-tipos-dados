@@ -19,7 +19,7 @@ const createProductLabel = (product: {
 
 console.log(
   createProductLabel({
-    produto: "Teclado Mecânico",
+    produto: "Teclado Mecânico RGB",
     lote: 105,
     ano: 2022,
     qtd: 10,
